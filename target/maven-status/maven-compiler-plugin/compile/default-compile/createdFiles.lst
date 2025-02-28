@@ -1,0 +1,10 @@
+pages\EmailFriend_Page.class
+commonLib\ExtentListener.class
+pages\LoginPage.class
+pages\HomePage.class
+commonLib\GetProperties.class
+commonLib\Utilities.class
+pages\ItemPage.class
+pages\WishlistPage.class
+commonLib\Base.class
+commonLib\GetExcel.class

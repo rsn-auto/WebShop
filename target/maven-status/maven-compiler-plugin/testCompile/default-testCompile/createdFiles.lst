@@ -1,0 +1,4 @@
+tests\EmailFriend_Tests.class
+tests\BaseTest.class
+tests\ItemPageTests.class
+tests\Login_Test.class
